@@ -1,0 +1,13 @@
+{
+  "name": "create-meteor",
+  "version": "0.0.1",
+  "description": "create-meteor",
+  "main": "index.js",
+  "repository": "github:meteor/create-meteor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Meteor Development Group",
+  "license": "MIT"
+}
